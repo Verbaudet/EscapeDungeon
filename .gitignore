@@ -49,6 +49,14 @@ EscapeDungeon/SourceArt/**/*.tga
 EscapeDungeon/Binaries/*
 EscapeDungeon/Plugins/*/Binaries/*
 
+# Builds
+EscapeDungeon/Build/*
+
+# Whitelist PakBlacklist-<BuildConfiguration>.txt files
+EscapeDungeon/!Build/*/
+EscapeDungeon/Build/*/**
+EscapeDungeon/!Build/*/PakBlacklist*.txt
+
 # Don't ignore icon files in Build
 EscapeDungeon/!Build/**/*.ico
 
