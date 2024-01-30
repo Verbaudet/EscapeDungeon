@@ -1284,3 +1284,74 @@ Script Stack (0 frames) :
 [2024.01.30-09.47.11:610][626]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 7.35% of total time (compiled    3 times, average 0.82 sec, max 0.94 sec, min 0.64 sec)
 [2024.01.30-09.47.11:610][626]LogShaderCompilers: Display: ================================================
 [2024.01.30-09.47.11:672][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.30-09.50.25:835][ 53]LogViewport: Scene viewport resized to 793x580, mode Windowed.
+[2024.01.30-09.50.27:197][105]LogViewport: Scene viewport resized to 1195x892, mode Windowed.
+[2024.01.30-09.50.28:978][205]LogViewport: Scene viewport resized to 1396x892, mode Windowed.
+[2024.01.30-09.50.29:505][246]LogViewport: Scene viewport resized to 1396x443, mode Windowed.
+[2024.01.30-09.50.33:934][322]LogViewport: Scene viewport resized to 1396x892, mode Windowed.
+[2024.01.30-09.50.36:616][547]LogViewport: Scene viewport resized to 804x892, mode Windowed.
+[2024.01.30-09.50.37:847][627]LogViewport: Scene viewport resized to 805x892, mode Windowed.
+[2024.01.30-09.50.37:866][628]LogViewport: Scene viewport resized to 807x892, mode Windowed.
+[2024.01.30-09.50.37:894][629]LogViewport: Scene viewport resized to 811x892, mode Windowed.
+[2024.01.30-09.50.37:922][630]LogViewport: Scene viewport resized to 822x892, mode Windowed.
+[2024.01.30-09.50.37:952][631]LogViewport: Scene viewport resized to 845x892, mode Windowed.
+[2024.01.30-09.50.37:980][632]LogViewport: Scene viewport resized to 865x892, mode Windowed.
+[2024.01.30-09.50.38:010][633]LogViewport: Scene viewport resized to 886x892, mode Windowed.
+[2024.01.30-09.50.38:039][634]LogViewport: Scene viewport resized to 924x892, mode Windowed.
+[2024.01.30-09.50.38:066][635]LogViewport: Scene viewport resized to 948x892, mode Windowed.
+[2024.01.30-09.50.38:095][636]LogViewport: Scene viewport resized to 956x892, mode Windowed.
+[2024.01.30-09.50.38:125][637]LogViewport: Scene viewport resized to 969x892, mode Windowed.
+[2024.01.30-09.50.38:156][638]LogViewport: Scene viewport resized to 1010x892, mode Windowed.
+[2024.01.30-09.50.38:187][639]LogViewport: Scene viewport resized to 1089x892, mode Windowed.
+[2024.01.30-09.50.38:218][640]LogViewport: Scene viewport resized to 1199x892, mode Windowed.
+[2024.01.30-09.50.38:251][641]LogViewport: Scene viewport resized to 1300x892, mode Windowed.
+[2024.01.30-09.50.38:283][642]LogViewport: Scene viewport resized to 1345x892, mode Windowed.
+[2024.01.30-09.50.38:315][643]LogViewport: Scene viewport resized to 1348x892, mode Windowed.
+[2024.01.30-09.50.38:655][671]LogViewport: Scene viewport resized to 1346x892, mode Windowed.
+[2024.01.30-09.50.38:674][672]LogViewport: Scene viewport resized to 1341x892, mode Windowed.
+[2024.01.30-09.50.38:705][673]LogViewport: Scene viewport resized to 1335x892, mode Windowed.
+[2024.01.30-09.50.38:738][674]LogViewport: Scene viewport resized to 1313x892, mode Windowed.
+[2024.01.30-09.50.38:771][675]LogViewport: Scene viewport resized to 1288x892, mode Windowed.
+[2024.01.30-09.50.38:802][676]LogViewport: Scene viewport resized to 1274x892, mode Windowed.
+[2024.01.30-09.50.38:833][677]LogViewport: Scene viewport resized to 1271x892, mode Windowed.
+[2024.01.30-09.50.39:022][691]LogViewport: Scene viewport resized to 1270x892, mode Windowed.
+[2024.01.30-09.50.39:042][692]LogViewport: Scene viewport resized to 1261x892, mode Windowed.
+[2024.01.30-09.50.39:075][693]LogViewport: Scene viewport resized to 1241x892, mode Windowed.
+[2024.01.30-09.50.39:110][694]LogViewport: Scene viewport resized to 1205x892, mode Windowed.
+[2024.01.30-09.50.39:144][695]LogViewport: Scene viewport resized to 1187x892, mode Windowed.
+[2024.01.30-09.50.39:415][717]LogViewport: Scene viewport resized to 1188x892, mode Windowed.
+[2024.01.30-09.50.39:434][718]LogViewport: Scene viewport resized to 1193x892, mode Windowed.
+[2024.01.30-09.50.39:468][719]LogViewport: Scene viewport resized to 1205x892, mode Windowed.
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: ================================================
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Total job queries 53, among them cache hits 0 (0.00%)
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Tracking 53 distinct input hashes that result in 35 distinct outputs (66.04%)
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: RAM used: 134,73 KiB of 1,60 GiB budget. Usage: 0.01%
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Shaders Compiled: 53
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Jobs assigned 53, completed 53 (100%)
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Average time worker was idle: 26.65 s
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Time job spent in pending queue: average 2.40 s, longest 4.52 s
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 2.37 s
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Job life time (pending + execution): average 3.27 s, max 5.59
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Shader code size: average 4,893 KiB, min 1,074 KiB, max 11,738 KiB
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.29 s
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Jobs were issued in 53 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Average processing rate: 7.27 jobs/sec
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Total thread time: 34,761 s
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Total thread preprocess time: 2,769 s
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Percentage time preprocessing: 7.97%
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Effective parallelization: 4.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    3 times, average 0.82 sec, max 0.94 sec, min 0.64 sec)
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    6 times, average 0.80 sec, max 1.15 sec, min 0.55 sec)
+[2024.01.30-09.50.43:782][969]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    3 times, average 0.76 sec, max 0.83 sec, min 0.65 sec)
+[2024.01.30-09.50.43:783][969]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    6 times, average 0.69 sec, max 0.81 sec, min 0.53 sec)
+[2024.01.30-09.50.43:783][969]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 0.69 sec, max 0.75 sec, min 0.61 sec)
+[2024.01.30-09.50.43:783][969]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.30-09.50.43:783][969]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 13.78% of total time (compiled    6 times, average 0.80 sec, max 1.15 sec, min 0.55 sec)
+[2024.01.30-09.50.43:783][969]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ - 11.94% of total time (compiled    6 times, average 0.69 sec, max 0.81 sec, min 0.53 sec)
+[2024.01.30-09.50.43:783][969]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.56% of total time (compiled    6 times, average 0.67 sec, max 0.93 sec, min 0.51 sec)
+[2024.01.30-09.50.43:783][969]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.28% of total time (compiled    4 times, average 0.63 sec, max 0.67 sec, min 0.57 sec)
+[2024.01.30-09.50.43:783][969]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 7.12% of total time (compiled    3 times, average 0.82 sec, max 0.94 sec, min 0.64 sec)
+[2024.01.30-09.50.43:783][969]LogShaderCompilers: Display: ================================================
