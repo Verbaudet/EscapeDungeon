@@ -1355,3 +1355,26 @@ Script Stack (0 frames) :
 [2024.01.30-09.50.43:783][969]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.28% of total time (compiled    4 times, average 0.63 sec, max 0.67 sec, min 0.57 sec)
 [2024.01.30-09.50.43:783][969]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 7.12% of total time (compiled    3 times, average 0.82 sec, max 0.94 sec, min 0.64 sec)
 [2024.01.30-09.50.43:783][969]LogShaderCompilers: Display: ================================================
+[2024.01.30-09.52.17:547][586]LogViewport: Scene viewport resized to 799x580, mode Windowed.
+[2024.01.30-09.52.18:802][641]LogViewport: Scene viewport resized to 1205x892, mode Windowed.
+[2024.01.30-09.52.19:389][671]LogViewport: Scene viewport resized to 799x580, mode Windowed.
+[2024.01.30-09.52.20:671][721]LogViewport: Scene viewport resized to 799x581, mode Windowed.
+[2024.01.30-09.52.20:707][721]LogViewport: Scene viewport resized to 799x584, mode Windowed.
+[2024.01.30-09.52.20:842][721]LogViewport: Scene viewport resized to 799x886, mode Windowed.
+[2024.01.30-09.52.21:666][734]LogViewport: Scene viewport resized to 799x580, mode Windowed.
+[2024.01.30-09.52.21:922][734]LogViewport: Scene viewport resized to 1205x892, mode Windowed.
+[2024.01.30-09.52.22:764][780]LogViewport: Scene viewport resized to 1533x892, mode Windowed.
+[2024.01.30-09.52.22:978][788]LogViewport: Scene viewport resized to 1533x443, mode Windowed.
+[2024.01.30-09.52.23:897][854]LogViewport: Scene viewport resized to 1533x892, mode Windowed.
+[2024.01.30-09.52.26:669][ 74]LogViewport: Scene viewport resized to 1533x443, mode Windowed.
+[2024.01.30-09.52.27:649][144]LogViewport: Scene viewport resized to 1533x892, mode Windowed.
+[2024.01.30-09.52.28:104][174]LogViewport: Scene viewport resized to 848x892, mode Windowed.
+[2024.01.30-09.52.29:998][304]LogViewport: Scene viewport resized to 849x892, mode Windowed.
+[2024.01.30-09.52.30:017][305]LogViewport: Scene viewport resized to 867x892, mode Windowed.
+[2024.01.30-09.52.30:047][306]LogViewport: Scene viewport resized to 934x892, mode Windowed.
+[2024.01.30-09.52.30:077][307]LogViewport: Scene viewport resized to 1029x892, mode Windowed.
+[2024.01.30-09.52.30:111][308]LogViewport: Scene viewport resized to 1143x892, mode Windowed.
+[2024.01.30-09.52.30:142][309]LogViewport: Scene viewport resized to 1232x892, mode Windowed.
+[2024.01.30-09.52.30:176][310]LogViewport: Scene viewport resized to 1286x892, mode Windowed.
+[2024.01.30-09.52.30:207][311]LogViewport: Scene viewport resized to 1298x892, mode Windowed.
+[2024.01.30-09.52.30:313][317]LogViewport: Scene viewport resized to 1299x892, mode Windowed.
