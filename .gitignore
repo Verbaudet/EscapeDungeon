@@ -53,7 +53,7 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
-# shitty files
+# log files
 saved/
 *.log
 
