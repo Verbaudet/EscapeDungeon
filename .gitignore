@@ -55,6 +55,9 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
+# shitty files
+saved/
+
 # Builds
 Build/*
 
