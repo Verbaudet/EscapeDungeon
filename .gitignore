@@ -8,8 +8,6 @@
 # Compiled Object files
 *.slo
 *.lo
-*.log
-**/logs
 *.o
 *.obj
 
@@ -57,6 +55,8 @@ Plugins/*/Binaries/*
 
 # shitty files
 saved/
+*.log
+
 
 # Builds
 Build/*
