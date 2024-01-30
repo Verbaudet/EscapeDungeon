@@ -9,6 +9,7 @@
 *.slo
 *.lo
 *.log
+**/logs
 *.o
 *.obj
 
